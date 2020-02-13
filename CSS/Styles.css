@@ -1,0 +1,43 @@
+h1 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  h2 {
+      color: rgb(9, 6, 219);
+      font-style: italic;
+      text-align: center;
+  } 
+  body {
+      background-image: url("Images/backgroundimage.jpg");
+      text-align: center;
+  
+  }
+  p {
+      font-family: sans-serif;
+      color: black
+      text-align: center;
+  }
+  ul {
+    line-height: 40px;
+    color: black;
+    text-align: center;
+  }
+  .Box{
+      border : 2px solid red;
+      padding 6px;
+      margin 20px;
+      background-color: yellow;
+  }
+h4{
+    float: left;
+    font-size: x-large;
+}
+.Cascade{
+    color: tomato;
+
+}
+.dog{
+    color: blue;
+}
